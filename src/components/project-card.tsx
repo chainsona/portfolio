@@ -61,11 +61,16 @@ export function ProjectCard({
           />
         )}
         {image && (
-          <Image
-            src={image}
-            alt={title}
-            className="h-40 w-full overflow-hidden object-cover object-top"
-          />
+          <div className="relative h-48 w-full overflow-hidden">
+            <Image
+              src={image}
+              alt={title}
+              fill
+              style={{
+                objectFit: "cover",
+              }}
+            />
+          </div>
         )}
       </Link>
       <CardHeader className="px-2">
