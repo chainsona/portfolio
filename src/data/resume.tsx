@@ -21,17 +21,27 @@ export const DATA = {
     "Go",
     "Postgres",
     "SQLite",
+    "Kafka",
+    "Solidity",
     "Solana",
+    "Anchor",
     "Metaplex",
     "Docker",
     "Kubernetes",
     "Ansible",
     "AWS",
+    "Azure",
+    "GCP",
+    "Vercel",
+    "Scaleway",
     "Terraform",
     "CI/CD",
+    "ArgoCD",
     "Tensorflow",
     "Keras",
     "PyTorch",
+    "Model Fine-tuning",
+    "Figma",
   ],
   contact: {
     social: {
@@ -48,16 +58,16 @@ export const DATA = {
 
   work: [
     {
-      company: "CHAINSONA",
-      href: "",
+      company: "Soona",
+      href: "https://github.com/chainsona",
       badges: [],
       location: "Worldwide",
-      title: "Founder",
-      logoUrl: "/blockchain.png",
-      start: "2022",
+      title: "Blockchain Developer",
+      logoUrl: "/me.png",
+      start: "2024",
       end: "Now",
       description:
-        "Building cool blockchain stuff with Rust, making sure it’s secure, fast, and scalable. Working on smart contracts and DApps to make blockchain even more awesome. Teaming up with smart folks to design and roll out blockchain architectures that actually .",
+        "Building cool blockchain stuff with Rust, making sure it’s secure, fast, and scalable. Working on smart contracts and DApps to make blockchain even more awesome. Teaming up with smart folks to design and roll out blockchain architectures that actually.",
     },
     {
       company: "████████████",
@@ -106,9 +116,9 @@ export const DATA = {
       end: "2013",
     },
     {
-      school: "Engineering University",
-      href: "",
-      degree: "Bachelor's Degree of Computer Science (BCS)",
+      school: "Engineering School",
+      href: "https://www.cesi.fr/en/",
+      degree: "Bachelor's Degree in Computer Science (BCS)",
       logoUrl: "/school.png",
       start: "2011",
       end: "2015",
@@ -146,7 +156,7 @@ export const DATA = {
     },
     {
       title: "Demind",
-      href: "https://demaind.ai",
+      href: "https://demind.ai",
       dates: "Feb 2024 - Present",
       active: true,
       description:
@@ -167,7 +177,7 @@ export const DATA = {
       links: [
         {
           type: "Website",
-          href: "https://demaind.ai",
+          href: "https://demind.ai",
           icon: <Icons.globe className="size-3" />,
         },
         {
