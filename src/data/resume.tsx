@@ -67,7 +67,7 @@ export const DATA = {
       start: "2024",
       end: "Now",
       description:
-        "Building cool blockchain stuff with Rust, making sure it’s secure, fast, and scalable. Working on smart contracts and DApps to make blockchain even more awesome. Teaming up with smart folks to design and roll out blockchain architectures that actually.",
+        "Building secure, fast, and scalable programs with Rust. Working on dApps to make blockchain great again. Teaming up with smart folks to design and roll out architectures that actually work.",
     },
     {
       company: "████████████",
