@@ -9,7 +9,7 @@ export const DATA = {
   description:
     "Anon, Degen, Builder. Always into the latest trends to push the boundaries of what’s possible. WAO.",
   summary:
-    "Working i tech since 2010, I quit my job as a lead software engineer to go full-time into web3 and buildng my own SaaS businesses. I love turning ideas into real, user-friendly products. With a knack for both coding and understanding market needs, I bridge the gap between tech and business. I bring a hands-on approach to solving complex tech challenges, always aiming to optimize performance and cost-efficiency.",
+    "With over a decade in tech, I transitioned from a lead software engineer to a full-time entrepreneur in the exciting world of web3. I succeed on transforming innovative ideas into real, user-friendly products. My unique blend of coding expertise and market insight allows me to seamlessly bridge the gap between technology and business. Driven by a hands-on approach, I tackle complex tech challenges head-on, always seeking for optimal performance and cost-efficiency. Let’s build a bright future together!",
   avatarUrl: "/me.png",
   skills: [
     "React",
