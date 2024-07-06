@@ -62,7 +62,7 @@ export const DATA = {
       href: "https://github.com/chainsona",
       badges: [],
       location: "Worldwide",
-      title: "Blockchain Developer",
+      title: "Web3 Engineer",
       logoUrl: "/me.png",
       start: "2024",
       end: "Now",
