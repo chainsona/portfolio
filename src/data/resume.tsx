@@ -126,35 +126,6 @@ export const DATA = {
   ],
   projects: [
     {
-      title: "GenesysGo D.A.G.G.E.R. Testnet2 Dashboard",
-      href: "https://dagger-dashboard.chainsona.dev",
-      dates: "Jan 2024 - Apr 2024",
-      active: true,
-      description:
-        "GenesysGo D.A.G.G.E.R. Testnet2 Dashboard provides a user-friendly alternative to the official GenesysGo dashboard. It allows users to view the current state of the network and monitor the performance/rewards of their nodes.",
-      technologies: [
-        "Next.js",
-        "Typescript",
-        "TailwindCSS",
-        "Solana IDL",
-        "Helius RPC",
-      ],
-      links: [
-        {
-          type: "Website",
-          href: "https://dagger-dashboard.chainsona.dev",
-          icon: <Icons.globe className="size-3" />,
-        },
-        {
-          type: "Source",
-          href: "https://github.com/chainsona/genesysgo-dagger-dashboard",
-          icon: <Icons.github className="size-3" />,
-        },
-      ],
-      image: "/genesysgo-dagger.png",
-      video: "",
-    },
-    {
       title: "Demind",
       href: "https://demind.ai",
       dates: "Feb 2024 - Present",
@@ -187,6 +158,35 @@ export const DATA = {
         },
       ],
       image: "/demind-showcase.png",
+      video: "",
+    },
+    {
+      title: "GenesysGo D.A.G.G.E.R. Testnet2 Dashboard",
+      href: "https://dagger-dashboard.chainsona.dev",
+      dates: "Jan 2024 - Apr 2024",
+      active: true,
+      description:
+        "GenesysGo D.A.G.G.E.R. Testnet2 Dashboard provides a user-friendly alternative to the official GenesysGo dashboard. It allows users to view the current state of the network and monitor the performance/rewards of their nodes.",
+      technologies: [
+        "Next.js",
+        "Typescript",
+        "TailwindCSS",
+        "Solana IDL",
+        "Helius RPC",
+      ],
+      links: [
+        {
+          type: "Website",
+          href: "https://dagger-dashboard.chainsona.dev",
+          icon: <Icons.globe className="size-3" />,
+        },
+        {
+          type: "Source",
+          href: "https://github.com/chainsona/genesysgo-dagger-dashboard",
+          icon: <Icons.github className="size-3" />,
+        },
+      ],
+      image: "/genesysgo-dagger.png",
       video: "",
     },
   ],
