@@ -35,7 +35,8 @@ export default function Navbar() {
             </TooltipContent>
           </Tooltip>
         </DockIcon>
-        <DockIcon>
+        {/* TODO: Enable blog */}
+        {/* <DockIcon>
           <Tooltip>
             <TooltipTrigger asChild>
               <Link
@@ -52,7 +53,7 @@ export default function Navbar() {
               <p>Blog</p>
             </TooltipContent>
           </Tooltip>
-        </DockIcon>
+        </DockIcon> */}
         <Separator orientation="vertical" className="h-full" />
         {Object.entries(DATA.contact.social).map(([name, social]) => (
           <DockIcon key={name}>
