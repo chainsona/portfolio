@@ -161,6 +161,36 @@ export const DATA = {
       video: "",
     },
     {
+      title: "Solex",
+      href: "https://solex.chainsona.dev",
+      dates: "July 2024",
+      active: true,
+      description:
+        "User-friendly Solana blockchain explorer offering real-time data.",
+      technologies: [
+        "Next.js",
+        "Typescript",
+        "TailwindCSS",
+        "Shadcn",
+        "Coingecko",
+        "Solana SDK",
+      ],
+      links: [
+        {
+          type: "Website",
+          href: "https://solex.chainsona.dev",
+          icon: <Icons.globe className="size-3" />,
+        },
+        {
+          type: "Source",
+          href: "https://github.com/chainsona/solexplorer",
+          icon: <Icons.github className="size-3" />,
+        },
+      ],
+      image: "/solexplorer-showcase.png",
+      video: "",
+    },
+    {
       title: "GenesysGo D.A.G.G.E.R. Testnet2 Dashboard",
       href: "https://dagger-dashboard.chainsona.dev",
       dates: "Jan 2024 - Apr 2024",
@@ -191,6 +221,27 @@ export const DATA = {
     },
   ],
   hackathons: [
+    {
+      title: "Talent Olympics",
+      dates: "Jul 11th - 14th, 2024",
+      location: "Worldwide",
+      description:
+        "Completed challenges to win prizes and receive interviews with top companies and teams on Solana. Hosted by Superteam, Turbin3 and Rise in.",
+      image: "/talent-olympics.png",
+      mlh: "https://s3.amazonaws.com/logged-assets/trust-badge/2019/mlh-trust-badge-2019-white.svg",
+      links: [
+        {
+          title: "Source",
+          href: "https://earn.superteam.fun/talent-olympics/",
+          icon: <Icons.globe className="size-3" />,
+        },
+        {
+          title: "Social",
+          href: "https://x.com/SuperteamDAO/status/1809212929411109038",
+          icon: <Icons.x className="size-3" />,
+        },
+      ],
+    },
     {
       title: "Metaplex cHack",
       dates: "Feb 1st - 29th, 2024",
