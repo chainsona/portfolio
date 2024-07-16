@@ -61,7 +61,7 @@ export const DATA = {
       company: "Soona",
       href: "https://github.com/chainsona",
       badges: [],
-      location: "Worldwide",
+      location: "Remote",
       title: "Web3 Engineer",
       logoUrl: "/me.png",
       start: "2024",
@@ -74,12 +74,12 @@ export const DATA = {
       href: "",
       badges: [],
       location: "Remote",
-      title: "Software Engineer",
+      title: "Lead Developer",
       logoUrl: "/coding.png",
       start: "2022",
       end: "2024",
       description:
-        "Designed and implemented software solutions for a Web3 platform of verifiable identities and credentials. Leveraged AI technologies to enhance user experience and increase team productivity.",
+        "Designed and implemented software solutions for a Web3 platform of verifiable identities and credentials. Leveraged AI technologies to enhance user experience and increase team productivity. Managed a team of 10 developers, providing mentorship and guidance to ensure project success.",
     },
     {
       company: "████████████",
