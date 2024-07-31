@@ -5,7 +5,7 @@ export async function GET() {
       symbol: "SOONA",
       description:
         "Created during a Turbin3 course, Soona Coin is a token that will be used to reward the best students of the course.",
-      image: "https://chainsona.dev/chainsona-madlads.png",
+      image: "https://chainsona.dev/wba-turbin3-soona.png",
     },
     {
       headers: {
