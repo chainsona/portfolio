@@ -26,6 +26,7 @@ export const metadata: Metadata = {
     siteName: `${DATA.name}`,
     locale: "en_US",
     type: "website",
+    images: ["https://chainsona.dev/chainsona-madlads.png"],
   },
   robots: {
     index: true,
